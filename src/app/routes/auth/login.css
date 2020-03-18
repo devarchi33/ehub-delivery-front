@@ -1,0 +1,23 @@
+ .login-form {
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+
+    position: fixed;
+    left: 50%;
+    top: 30%;
+    margin: 0px 0px 0px -150px;
+  }
+ .login-form-forgot {
+float: right;
+}
+ .login-form-button {
+width: 100%;
+}
+.login-backgroup{
+    background-color: #EAEDF1
+}
+
+.change-form-button {
+    width: 40%;
+    }

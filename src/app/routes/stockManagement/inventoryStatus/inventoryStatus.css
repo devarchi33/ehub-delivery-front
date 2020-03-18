@@ -1,0 +1,25 @@
+.able-align-center{
+    text-align: center
+}
+.backColorPink{
+    background-color: #f2dede
+}
+
+.backColorYell{
+    background-color: #fcf8e3;
+}
+.backColorGree{
+    background-color: #dff0d8;
+}
+.ant-table-thead > tr > th.Pink{
+    background-color: #f2dede;   
+} 
+.ant-table-thead > tr > th.Yell{
+    background-color: #fcf8e3;   
+} 
+.ant-table-thead > tr > th.Gree{
+    background-color: #dff0d8    
+} 
+.ant-table-thead > tr > th.able-align-center{
+    text-align: center    
+}
